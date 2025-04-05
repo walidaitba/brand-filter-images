@@ -1,0 +1,16 @@
+/* Style the brand images */
+.woof_label_term img {
+    display: inline-block;
+    margin: 5px;
+}
+
+/* Adjust the layout of the filter items */
+.woof_list_label {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.woof_list_label li {
+    list-style: none;
+    margin: 5px;
+}
